@@ -16,4 +16,11 @@ namespace Goodbye
         public int Class { get; set; }
 
     }
+
+    class GiangVien
+    {
+        public int Age { get; set; }
+        public int Class { get; set; }
+
+    }
 }
