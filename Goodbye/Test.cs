@@ -33,6 +33,22 @@ namespace Goodbye
                 Console.WriteLine(" Method 2");
             }
         }
+
+        public static void Method3()
+        {
+            for (int i = 0; i < 25; i++)
+            {
+                Console.WriteLine(" Method 2");
+            }
+        }
+        public static void Method4()
+        {
+            for (int i = 0; i < 25; i++)
+            {
+                Console.WriteLine(" Method 2");
+            }
+        }
+
     }
 
 }
